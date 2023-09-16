@@ -6,6 +6,11 @@ viteを使用したESModule→スクリプト（`iife`ビルド）構成例お�
 
 Modのエントリポイントは`js/mod/mods/buildsample/init.js`にあります。
 
+# Release
+ビルド済のMod自体`buildsample.zip`はReleaseページからダウンロードしてください。
+
+https://github.com/Spoonail-Iroiro/maginai-buildsample/releases
+
 # Build
 
 ```sh
