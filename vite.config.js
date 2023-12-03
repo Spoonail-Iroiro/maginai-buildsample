@@ -22,7 +22,7 @@ export default defineConfig({
         entryFileNames: `[name].js`,
         chunkFileNames: `[name].js`,
         globals: {
-          maginai: ['maginai'],
+          maginai: 'maginai',
         },
       },
     },
